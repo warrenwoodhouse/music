@@ -6,6 +6,10 @@ You can find the license agreement at https://warrenwoodhouse.fandom.com/license
 
 # ALBUMS
 * [Sound Effects Vol. 1](https://github.com/warrenwoodhouse/music/releases/tag/soundeffectsvol1) (Soundtrack)
+* [Life in Motion](https://github.com/warrenwoodhouse/music/releases/tag/lifeinmotion) (Album)
+* [Are You Ready](https://github.com/warrenwoodhouse/music/releases/tag/areyouready) (Album)
+* [Early Recordings Vol. 1](https://github.com/warrenwoodhouse/music/releases/tag/earlyrecordingsvol1) (Album)
+* [Early Recordings Vol. 2](https://github.com/warrenwoodhouse/music/releases/tag/earlyrecordingsvol2) (Album)
 
 # SINGLES
 * [CLICK HERE](https://github.com/warrenwoodhouse/music/releases/tag/music) to listen to individual singles.
