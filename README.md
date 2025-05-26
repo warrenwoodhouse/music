@@ -1,8 +1,8 @@
 # music
-Warren Woodhouse Music. Music recordings for personal use only. For other uses, please read the License Agreement at https://warrenwoodhouse.fandom.com/license
+Warren Woodhouse Music. Music recordings for personal use only. For other uses, please read the License Agreement at [https://warrenwoodhouse.blogspot.com/search/label/terms](https://warrenwoodhouse.blogspot.com/search/label/terms)
 
 # LICENSE AGREEMENT
-You can find the license agreement at https://warrenwoodhouse.fandom.com/license
+You can find the license agreement at [https://warrenwoodhouse.fandom.com/license](https://warrenwoodhouse.blogspot.com/search/label/terms)
 
 # ALBUMS
 * [Sound Effects Vol. 1](https://github.com/warrenwoodhouse/music/releases/tag/soundeffectsvol1) (Soundtrack)
@@ -18,11 +18,10 @@ You can find the license agreement at https://warrenwoodhouse.fandom.com/license
 Music Recordings by Warren Woodhouse.
 
 # SUPPORT
-You can find support at https://warrenwoodhouse.fandom.com/wiki/Forum:Support
+You can find support at [https://warrenwoodhouse.blogspot.com/p/support.html](https://warrenwoodhouse.blogspot.com/p/support.html)
 
 # KEEP IN TOUCH
 * Subscribe on YouTube: https://youtube.com/user/warrenwoodhouse
 * Follow on Twitter: https://twitter.com/warrenwoodhouse
-* Official Music Website: https://warrenwoodhouse.fandom.com/wiki/Music
-* Follow on Warren Woodhouse Blogs: https://warrenwoodhouse.fandom.com/wiki/Blog:Music
-* More: https://warrenwoodhouse.fandom.com/wiki/Template:Header?useskin=oasis
+* Official Music Website: https://warrenwoodhouse.blogspot.com/search/label/music
+* More: https://warrenwoodhouse.blogspot.com/search/label/follow
