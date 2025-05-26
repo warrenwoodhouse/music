@@ -2,7 +2,7 @@
 Warren Woodhouse Music. Music recordings for personal use only. For other uses, please read the License Agreement at [https://warrenwoodhouse.blogspot.com/search/label/terms](https://warrenwoodhouse.blogspot.com/search/label/terms)
 
 # LICENSE AGREEMENT
-You can find the license agreement at [https://warrenwoodhouse.fandom.com/license](https://warrenwoodhouse.blogspot.com/search/label/terms)
+You can find the license agreement at [https://warrenwoodhouse.blogspot.com/search/label/terms](https://warrenwoodhouse.blogspot.com/search/label/terms)
 
 # ALBUMS
 * [Sound Effects Vol. 1](https://github.com/warrenwoodhouse/music/releases/tag/soundeffectsvol1) (Soundtrack)
